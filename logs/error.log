@@ -1,0 +1,14 @@
+{"level":"error","error":"eth0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-05 17:51:52.506 +0800","message":"监听流量失败"}
+{"level":"error","error":"eth0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-05 21:57:46.385 +0800","message":"监听流量失败"}
+{"level":"error","error":"eth0: No such device exists (BIOCSETIF failed: Device not configured)","time":"2024-03-05 22:02:29.447 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:15:59.315 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:20:07.390 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:21:21.697 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:21:42.505 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:22:44.019 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:23:36.147 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:24:39.296 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:26:25.717 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:27:52.322 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:32:27.385 +0800","message":"监听流量失败"}
+{"level":"error","error":"lo0: You don't have permission to capture on that device ((cannot open BPF device) /dev/bpf0: Permission denied)","time":"2024-03-22 14:35:07.791 +0800","message":"监听流量失败"}

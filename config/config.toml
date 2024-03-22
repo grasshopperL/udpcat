@@ -1,0 +1,26 @@
+[server]
+# 网卡名称，必填
+device_name = "lo0"
+
+# 每个数据包读取的最大长度，默认1024
+# snap_len = 1024
+
+# 是否将网口设置为混杂模式,即是否接收目的地址不为本机的包，默认false
+# promisc = false
+
+# 设置抓到包返回的超时。如果设置成 30s，那么每30s才会刷新一次数据包；设置成负数，会立刻刷新数据包，即不做等待，默认1s
+timeout = "1s"
+
+# BPF(Berkley Packet Filter)过滤器条件，可使用and、or、not来作为多个条件
+bpf_filter = "dst port 28892"
+
+[routine]
+# 是否开启对协程数量的检查，将会输出到stdout
+monitor_routine = false
+
+# 对协程数量检查的时间间隔
+check_interval = "1s"
+
+[log]
+# 错误日志文件路径及名称
+error_log = "./logs/error.log"
